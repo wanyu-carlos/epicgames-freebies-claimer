@@ -1,0 +1,14 @@
+{
+    "wanyu.carlos@gmail.com": {
+        "device_id": "2a3a63c93782442180342b49841e6c80",
+        "account_id": "e2c279dbfc2843cd90b72ecd1dd8c3a0",
+        "secret": "JWO3MTTXP6VOCZIT2O5RYS4P2MC22YQ2",
+        "user_agent": "DeviceAuthGenerator/1.1.0 Darwin/Darwin Kernel Version 20.6.0: Wed Jun 23 00:26:31 PDT 2021; root:xnu-7195.141.2~5/RELEASE_X86_64",
+        "created": {
+            "location": "Wuhan, China",
+            "ip_address": "171.83.97.234",
+            "datetime": "2021-08-07T08:55:28.126Z"
+        },
+        "country": "JP"
+    }
+}
